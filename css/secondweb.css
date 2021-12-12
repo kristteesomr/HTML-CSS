@@ -1,0 +1,34 @@
+.wrap{
+    width: 1000px;
+    margin: auto;
+    background: rgb(130, 38, 89);
+    overflow: hidden;
+}
+
+.content{
+    background: rgb(179, 65, 128);
+    float:left;
+    width: 550px;
+}
+
+aside{
+    background: rgb(227, 107, 174);
+
+}
+
+body{
+    background: rgb(248, 161, 209);
+}
+
+.content, aside{
+   
+}
+
+aside ul {
+    padding-left: 20px;
+    list-style: none;
+}
+
+footer{
+
+}

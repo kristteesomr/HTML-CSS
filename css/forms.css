@@ -1,0 +1,46 @@
+body{
+    background: rgb(194, 184, 163);
+}
+
+
+.wrap{
+    background: rgb(254, 247, 220);
+    margin: auto;
+    width: 600px;
+    border: 1px solid rgb(254, 247, 220);
+}
+
+h1{
+    text-align: center;
+    color: rgb(161, 152, 130);
+}
+
+ol li{
+    margin-bottom: 20px;
+
+}
+
+ol li:nth-child(4){
+    list-style: none;
+}
+
+ol li:nth-child(5){
+    list-style: none;
+}
+
+.submit{
+    left: auto;
+    right: auto;
+}
+
+form ol{
+    padding: auto;
+}
+
+label{
+    display:block;
+    cursor: pointer;
+    font-family: sans-serif;
+    padding-bottom: 8px;
+
+}

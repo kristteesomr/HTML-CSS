@@ -1,0 +1,24 @@
+li {
+    display: inline;
+    padding-right: 10px;
+
+}
+
+ul{
+    width: 200px;
+}
+
+ul a {
+    text-decoration: none;
+    color: #666;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+ul a:hover{
+    text-decoration: underline;
+    font-size: 30px;
+    color: black;
+}

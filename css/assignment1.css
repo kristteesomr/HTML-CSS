@@ -1,0 +1,16 @@
+body{
+    background: rgb(208,211,212);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.wrap{
+    
+    margin: auto;
+    width: 600px;
+}
+
+blockquote{
+    border: 1px solid white;
+    text-align: center;
+    margin-left:0;
+}
